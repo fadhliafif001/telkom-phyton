@@ -1,0 +1,2 @@
+# telkom-phyton
+pertama
